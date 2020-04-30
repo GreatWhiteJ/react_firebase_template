@@ -5,12 +5,12 @@
   "dependencies": {
     "@material-ui/core": "3.9.3",
     "@material-ui/icons": "3.0.2",
-    "axios": "^0.18.0",
-    "firebase": "^5.10.0",
-    "immer": "^1.8.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router-dom": "^4.3.1",
+    "axios": "0.19.2",
+    "firebase": "7.14.2",
+    "immer": "6.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-router-dom": "5.1.2",
     "react-scripts": "3.0.0",
     "typeface-roboto": "0.0.54"
   },
@@ -24,11 +24,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
